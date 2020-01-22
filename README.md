@@ -14,7 +14,7 @@ To use, clone this repository then edit the ***auth.json*** file and place your 
 
 Commands are 
 * `-h` Gives you a list of available commands 
-* `-create` [your idea] Greate a new item under your trello list 
+* `-create [*your idea*]` Greate a new item under your trello list 
 * `-l` Lists the ideas on the list 
 
 Ex.
