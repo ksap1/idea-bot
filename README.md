@@ -7,3 +7,4 @@ Commands are
 
 Ex.
 
+![alt-text](example.png)
