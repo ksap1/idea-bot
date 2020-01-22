@@ -8,3 +8,7 @@ Commands are
 Ex.
 
 ![alt-text](example.png)
+
+
+
+To use, clone this repository then edit the ***auth.json*** file and place your discord token. Then edit the ***bot.js*** file and place your Trello list Id and Trello tokens in there.
