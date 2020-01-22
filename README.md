@@ -20,6 +20,6 @@ Commands are
 Ex.
 
 ![alt-text](example.png)
-
+*You select what your bot's profile picture is*
 
 
