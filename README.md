@@ -4,15 +4,15 @@
 Add items to a Trello list through discord
 
 What you need
-*Discord Token 
-*Trello Activation Key
-*Trello Secret Key
-*Trello List id
+* Discord Token 
+* Trello Activation Key
+* Trello Secret Key
+* Trello List id
 
 Commands are 
-`-h` Gives you a list of available commands
-`-create` [your idea] Greate a new item under your trello list
-`-l` Lists the ideas on the list
+`-h` Gives you a list of available commands \n
+`-create` [your idea] Greate a new item under your trello list \n
+`-l` Lists the ideas on the list \n
 
 Ex.
 
