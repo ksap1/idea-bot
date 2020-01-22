@@ -10,9 +10,9 @@ What you need
 * Trello List id
 
 Commands are 
-`-h` Gives you a list of available commands \n
-`-create` [your idea] Greate a new item under your trello list \n
-`-l` Lists the ideas on the list \n
+> `-h` Gives you a list of available commands 
+> `-create` [your idea] Greate a new item under your trello list 
+> `-l` Lists the ideas on the list 
 
 Ex.
 
