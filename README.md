@@ -19,7 +19,7 @@ Commands are
 
 Ex.
 
-![alt-text](example.png) &nbsp;
+![alt-text](example.png)  &nbsp;
 *You select what your bot's profile picture is*
 
 
