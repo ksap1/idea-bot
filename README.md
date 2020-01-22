@@ -1,4 +1,4 @@
-#Discord Bot that connects to Trello
+# Discord Bot that connects to Trello
 
 
 Add items to a Trello list through discord
