@@ -2,9 +2,9 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 const auth = require('./auth.json');
 var Trello = require("trello");
-var trello = new Trello("384c8844de75ae9224daf1f27055c5d8", "d566adcb05d29eb2a45a9403bd89211c1921f23068fd67ec1bdeb6977fb342d0");
+var trello = new Trello("APPLICATION KEY", "USER TOKEN");
 
-const myListId= "5df08459fb765b14d62d6abc";
+const myListId= "Trello List Id. Find this through a GET request";
 
 function newTrello(task){
     trello.addCard(task, 'Wax on, wax off', myListId,
